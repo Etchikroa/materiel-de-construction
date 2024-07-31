@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/materiel-de-construction/static/css/main.ad132601.css",
+    "main.js": "/materiel-de-construction/static/js/main.81f343aa.js",
+    "static/js/453.a99d6b4d.chunk.js": "/materiel-de-construction/static/js/453.a99d6b4d.chunk.js",
+    "static/media/tube-orange.png": "/materiel-de-construction/static/media/tube-orange.cb9f4880692021a7df1c.png",
+    "static/media/prince-30.png": "/materiel-de-construction/static/media/prince-30.ff99e9cd30b1ef0d8ab4.png",
+    "static/media/enduit-sippec.png": "/materiel-de-construction/static/media/enduit-sippec.2341641d29ec204720fe.png",
+    "static/media/graffiato-30.png": "/materiel-de-construction/static/media/graffiato-30.9f47fe88d0acf66b5f88.png",
+    "static/media/porte-savon.png": "/materiel-de-construction/static/media/porte-savon.947de206d9548faae71e.png",
+    "static/media/ciment.png": "/materiel-de-construction/static/media/ciment.b0b32d32e3785a2757c2.png",
+    "static/media/trapeau-30.png": "/materiel-de-construction/static/media/trapeau-30.2f03ac53e769ed1120fb.png",
+    "static/media/delux-ext-30.png": "/materiel-de-construction/static/media/delux-ext-30.9316b6c986f1372c3abe.png",
+    "static/media/porte-papier.png": "/materiel-de-construction/static/media/porte-papier.d7aac4b9e80c27753bad.png",
+    "static/media/platre.jpg": "/materiel-de-construction/static/media/platre.7317c04072f967536726.jpg",
+    "static/media/robinet-lavabo.webp": "/materiel-de-construction/static/media/robinet-lavabo.690e716c20d7cdf62922.webp",
+    "static/media/COLLE-CARO.jpg": "/materiel-de-construction/static/media/COLLE-CARO.e9e144c9cc297b90d50f.jpg",
+    "static/media/paradienne-vert.jpg": "/materiel-de-construction/static/media/paradienne-vert.2de674d0bfbdf533a1df.jpg",
+    "static/media/lavabo.jpg": "/materiel-de-construction/static/media/lavabo.5ed9fd9fb3d4a06cd8b2.jpg",
+    "static/media/logo.jpg": "/materiel-de-construction/static/media/logo.440d7f0b8f1e69a2cdde.jpg",
+    "static/media/wc.jpg": "/materiel-de-construction/static/media/wc.0f67d369fd818c76f585.jpg",
+    "static/media/mitigeur.jpg": "/materiel-de-construction/static/media/mitigeur.cb827451b8ca59ce9827.jpg",
+    "static/media/dismatic.jpg": "/materiel-de-construction/static/media/dismatic.cd173ff81a4f85e513a1.jpg",
+    "static/media/enduit-delux.jpg": "/materiel-de-construction/static/media/enduit-delux.f7393fbc90db5f9e968d.jpg",
+    "static/media/star-30.jpg": "/materiel-de-construction/static/media/star-30.62ee6f68f16e4205b6b7.jpg",
+    "static/media/royal-int-30.jpg": "/materiel-de-construction/static/media/royal-int-30.a043a13bc3a39ac7d725.jpg",
+    "index.html": "/materiel-de-construction/index.html",
+    "main.ad132601.css.map": "/materiel-de-construction/static/css/main.ad132601.css.map",
+    "main.81f343aa.js.map": "/materiel-de-construction/static/js/main.81f343aa.js.map",
+    "453.a99d6b4d.chunk.js.map": "/materiel-de-construction/static/js/453.a99d6b4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad132601.css",
+    "static/js/main.81f343aa.js"
+  ]
+}
